@@ -3,7 +3,7 @@
 EcoFrost Heating and Cooling is a local business in the GTA who distributes and installs HVAC (heating, ventilation and air conditioning) units to customers across Ontario. Over the COVID-19 pandemic, they were in need of a basic [business website](https://www.ecofrostheating.com/) to generate leads in the new online world.
 
 ## Design
-As the primary developer on the team, a lot of the design choices were left to me. Below are some of the high level design decisions for this website.
+As the only developer on the team, a lot of the design choices were left to me. Below are some of the high level design decisions for this website.
 
 ### Backend
 Backend design for this website is very simple. Each HVAC unit has a corresponding product page (see [example](https://www.ecofrostheating.com/furnace/lennox/p/ml196uh045xe24b)) and this data is captured in a JSON. MongoDB was the database of choice due to its document-oriented nature and ease of use.
