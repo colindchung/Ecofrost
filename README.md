@@ -38,3 +38,6 @@ Listed below are some of the tools and technologies that were used in constructi
 - [Netlify](https://www.netlify.com/)
 - [Google Search Console](https://search.google.com/search-console/welcome)
 - [Google Domains](https://domains.google.com)
+
+
+updates
