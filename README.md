@@ -1,6 +1,6 @@
-# [EcoFrost Heating and Cooling](https://ecofrostheating.com/)
+# [Ecofrost Heating and Cooling](https://ecofrostheating.com/)
 
-EcoFrost Heating and Cooling is a local business in the GTA who distributes and installs HVAC (heating, ventilation and air conditioning) units to customers across Ontario. Over the COVID-19 pandemic, they were in need of a basic [business website](https://www.ecofrostheating.com/) to generate leads in the new online world.
+Ecofrost Heating and Cooling is a local business in the GTA who distributes and installs HVAC (heating, ventilation and air conditioning) units to customers across Ontario. Over the COVID-19 pandemic, they were in need of a basic [business website](https://www.ecofrostheating.com/) to generate leads in the new online world.
 
 ## Design
 As the only developer on the team, a lot of the design choices were left to me. Below are some of the high level design decisions for this website.
