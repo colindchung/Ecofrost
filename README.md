@@ -9,7 +9,7 @@ As the only developer on the team, a lot of the design choices were left to me. 
 Backend design for this website is very simple. Each HVAC unit has a corresponding product page (see [example](https://www.ecofrostheating.com/furnace/lennox/p/ml196uh045xe24b)) and this data is captured in a JSON. MongoDB was the database of choice due to its document-oriented nature and ease of use.
 
 ### Search Engine Optimization
-As a small local business, search engine optimization to improve appearances on Google search results is highly important. Next.js was used as the frontend framework to easily implement server side rendering. Mobile responsiveness and performance were also areas of focus, as well as maximizing the number of links, keywords and configuring HTTPS.
+As a small local business, search engine optimization to improve appearances on Google search results is highly important and incurring hefty advertising costs is not always feasible. Next.js was used as the frontend framework to easily implement server side rendering. Mobile responsiveness and performance were also areas of focus, as well as maximizing the number of backlinks, keywords and configuring HTTPS.
 
 
 ## Technologies and tools
@@ -23,17 +23,20 @@ Listed below are some of the tools and technologies that were used in constructi
 - [Google reCAPTCHA](https://www.google.com/recaptcha/about/)
 
 ### Backend
-- [Node.js](https://nodejs.org/en/)
+- [Node.js (TypeScript)](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Docker](https://www.docker.com/)
 - [Google reCAPTCHA](https://www.google.com/recaptcha/about/)
+- [PayPal Developer](https://developer.paypal.com/home/)
 
 ### Infrastructure
 - [Amazon Web Services](https://aws.amazon.com/)
-	- Elastic Container Service
-	- Elastic Container Registry
+	- Elastic Beanstalk
+	- CodePipeline
 	- Route53
 	- AWS Certificate Manager
+	- Cognito
 - [Docker](https://www.docker.com/)
 - [Netlify](https://www.netlify.com/)
 - [Google Search Console](https://search.google.com/search-console/welcome)
