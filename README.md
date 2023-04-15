@@ -17,7 +17,7 @@ As a small local business, search engine optimization to improve appearances on 
 The business is looking to expand and open a store which sells tools, parts and offers training on installation and maintenance. As this is under a different incorporation, I am in the process of building a new website with inventory management (with QuickBooks), online checkout and reservation, invoicing, and user management. For the original website, I am also working on building out an in-house payment solution to reduce processing fees and avoid the need to collect cash or E-transfer payments for large installation invoices.
 
 ## Technologies and tools
-Listed below are some of the tools and technologies that were used in constructing this product.
+Listed below are some of the tools and technologies that are being used in constructing this product.
 
 ### Frontend
 - [Figma](https://www.figma.com/)
@@ -47,3 +47,4 @@ Listed below are some of the tools and technologies that were used in constructi
 - [Netlify](https://www.netlify.com/)
 - [Google Search Console](https://search.google.com/search-console/welcome)
 - [Google Domains](https://domains.google.com)
+- [Supabase](https://supabase.com)
