@@ -13,6 +13,8 @@ I also created separate API services for PayPal integration to accept online pay
 ### Search Engine Optimization
 As a small local business, search engine optimization to improve appearances on Google search results is highly important and incurring hefty advertising costs is not always feasible. Next.js was used as the frontend framework to easily implement server side rendering (helping Google's web crawlers to properly consume the content). Mobile responsiveness and performance were also areas of focus, as well as maximizing the number of backlinks, keywords and configuring HTTPS.
 
+## What's next?
+The business is looking to expand and open a store which sells tools, parts and offers training on installation and maintenance. As this is under a different incorporation, I am in the process of building a new website with inventory management (with QuickBooks), online checkout and reservation, invoicing, and user management. For the original website, I am also working on building out an in-house payment solution to reduce processing fees and avoid the need to collect cash or E-transfer payments for large installation invoices.
 
 ## Technologies and tools
 Listed below are some of the tools and technologies that were used in constructing this product.
