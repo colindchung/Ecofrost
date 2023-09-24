@@ -29,7 +29,6 @@ Listed below are some of the tools and technologies that are being used in const
 ### Backend
 - [Node.js (TypeScript)](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
 - [Docker](https://www.docker.com/)
 - [Google reCAPTCHA](https://www.google.com/recaptcha/about/)
 - [PayPal Developer](https://developer.paypal.com/home/)
